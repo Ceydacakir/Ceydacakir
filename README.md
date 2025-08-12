@@ -5,7 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ceyda-cakir-b68167286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceyda çakir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ceyda çakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceyda çakir" height="30" width="40" /></a>
+<a href="https://medium.com/@ceydie6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ceydie6" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ceydax20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ceydax20" height="30" width="40" /></a>
 </p>
 
